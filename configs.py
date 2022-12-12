@@ -1,0 +1,8 @@
+weights1_path = 'weights/weights1.npy'
+weights2_path = 'weights/weights2.npy'
+weights841_path = 'weights/weights841.npy'
+weights842_path = 'weights/weights842.npy'
+matrix_path = 'weights/matrix.npy'
+pngs_path = 'pngs/'
+learn_img_path = 'learn_img.png'
+test_img_path = 'test_img.png'
